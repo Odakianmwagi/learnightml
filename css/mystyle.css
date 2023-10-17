@@ -1,0 +1,107 @@
+body{
+  background-color: plum;
+}
+button{
+  background-color: black;
+  color: white;
+  padding: 10px 15px;
+  width: 220px;
+  border-bottom: black;
+  border-radius: 12px;
+}
+input{
+  border-radius: 13px;
+  border-color: goldenrod;
+  color: black;
+  text-align: center;
+  background-color: white;
+
+}
+table,th,td{
+  border: 2px solid black;
+  height: 50px;
+  width: 1000px;
+
+}
+th{
+  height: 50px;
+
+}
+td{
+  text-align: left;
+  font-size: larger;
+  font-style: italic;
+
+}
+h1{
+  text-align: left;
+  font-size: larger;
+
+}
+p{
+  text-align: left;
+  text-decoration-style: double;
+
+}
+image{
+  background-color: plum;
+  border-radius: 12px;
+  object-position: center;
+
+}
+ul{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+li{
+  float: right;
+  display: block;
+
+}
+li a{
+  padding: 20px;
+  background-color: palevioletred;
+  display: block;
+  color: black;
+  text-align: center;
+  text-decoration: darkblue;
+  border-radius: 12px;
+}
+li a:hover{
+  background-color: mintcream;
+}
+ ul li a:hover {
+    padding-top:15px;
+    padding-bottom:15px;
+}
+
+ ul #link1 a:hover {
+   color: yellow;
+    background-color: #C62222;
+}
+
+ ul #link2 a:hover {
+   color: yellow;
+    background-color: #28C622;
+}
+ul #link3 a:hover{
+  color: yellow;
+  background-color: darkblue;
+}
+ul #link4 a:hover{
+  color: yellow;
+  background-color: goldenrod;
+}
+ul #link5 a:hover{
+  color: yellow;
+  background-color: rebeccapurple;
+}
+ul #link6 a:hover{
+  color: yellow;
+  background-color: black;
+}
+ul #link7 a:hover {
+  color: red;
+  background-color: white;
+}
